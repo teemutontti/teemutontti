@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Teemu Tontti</h1>
 <h3 align="center">Second year studen currently studying Business Information Systems at Tampere University of Applied Sciences</h3>
 
-- 🔭 I’m currently working on [Weather App](www.link.fi)
+- 🔭 I’m currently working on **[Weather App](www.link.fi)**
 
 - 🌱 I’m currently learning **JavaScript, React**
 
