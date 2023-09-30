@@ -2,11 +2,6 @@
 <img align="right" alt="Coder coding" width="200" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 <h3 align="left">Second year studen currently studying Business Information Systems at Tampere University of Applied Sciences</h3>
 <h3 align="right">Connect with me:</h3>
-<p align="right">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/tonttiteemu/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tonttiteemu/" height="30" width="40" />
-  </a>
-</p>
 <!--<img align="right" alt="Coder coding" width="400" src="coder.png">-->
 
 <br>
@@ -18,6 +13,12 @@
 - 📫 How to reach me **teemu.tontti.tt@gmail.com**
 
 <br>
+
+<p align="right">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/tonttiteemu/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tonttiteemu/" height="30" width="40" />
+  </a>
+</p>
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=teemutontti&show_icons=true&locale=en" alt="teemutontti" />
