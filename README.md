@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Teemu Tontti</h1>
 <h3 align="center">Second year studen currently studying Business Information Systems at Tampere University of Applied Sciences</h3>
 <img align="right" alt="Coder coding" width="400" src="coder.png">
+<img align="right" alt="Coder coding" width="400" src="<img align="right" alt="Coder coding" width="400" src="coder.png">">
 
 - 🔭 I’m currently working on **[Weather App](https://github.com/teemutontti/weather-app)**
 
