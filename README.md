@@ -1,25 +1,6 @@
-### Hi there 👋
-
-##About
-I'm Teemu Tontti, 2nd year Business Information Systems student at Tampere
-
-<!--
-**teemutontti/teemutontti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Teemu Tontti</h1>
 <h3 align="center">Second year studen currently studying Business Information Systems at Tampere University of Applied Sciences</h3>
+<img align="right" alt="Coder coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360">
 
 - 🔭 I’m currently working on **[Weather App](https://github.com/teemutontti/weather-app)**
 
