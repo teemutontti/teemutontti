@@ -5,9 +5,9 @@
 
 <br>
 
-- 🔭 I’m currently working on **[Weather App](https://github.com/teemutontti/weather-app)**
+- 🔭 I’m currently working on a PWA project and native Android project
 
-- 🌱 I’m currently learning **JavaScript** and **React**
+- 🌱 I’m currently learning **Kotlin** and **Android**
 
 - 📫 How to reach me **teemu.tontti.tt@gmail.com**
 
