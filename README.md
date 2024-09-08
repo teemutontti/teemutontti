@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Teemu Tontti</h1>
 <img align="right" alt="Coder coding" width="200" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
-<h3 align="left">Second year student currently studying Business Information Systems at Tampere University of Applied Sciences</h3>
+<h3 align="left">Third year Business Information Systems student at Tampere University of Applied Sciences</h3>
 <!--<img align="right" alt="Coder coding" width="400" src="coder.png">-->
 
 <br>
 
-- 🔭 I’m currently working on a PWA project and native Android project
+- 🔭 I’m currently working on my own portfolio page
 
-- 🌱 I’m currently learning **Kotlin** and **Android**
+- 🌱 I’m currently learning **CI/CD**
 
 - 📫 How to reach me **teemu.tontti.tt@gmail.com**
 
