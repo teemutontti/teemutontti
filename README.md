@@ -5,9 +5,9 @@
 
 <br>
 
-- 🔭 I’m currently working on my own portfolio page
+- 🔭 I’m currently working on satellite image comparer
 
-- 🌱 I’m currently learning **CI/CD** and **webpage optimization**
+- 🌱 I’m currently learning **CI/CD**, **Cloud Development** and **webpage optimization**
 
 - 📫 How to reach me **teemu.tontti.tt@gmail.com**
 
