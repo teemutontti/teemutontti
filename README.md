@@ -20,9 +20,12 @@
 
 <br>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=teemutontti&show_icons=true&locale=en" alt="teemutontti" />
-</p>
+<h3>My Stats</h3>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=teemutontti&show_icons=true&locale=en" alt="teemutontti" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teemutontti&layout=compact" />
+</div>
 
 <br>
 
