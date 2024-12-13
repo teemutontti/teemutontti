@@ -85,7 +85,7 @@ Pasionate third-year Business Information Systems student at Tampere University 
 <div
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40" />
-</div
+</div>
 
 <br>
 <a href="https://www.freepik.com/free-vector/colourful-illustration-programmer-working_5483080.htm#fromView=search&page=1&position=0&uuid=82decf55-7274-4dd3-807e-5ef119c00086">Header image by freepik</a>
