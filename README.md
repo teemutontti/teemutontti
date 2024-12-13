@@ -82,7 +82,7 @@ Pasionate third-year Business Information Systems student at Tampere University 
 </div>
 
 ### Others
-<div
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40" />
 </div>
