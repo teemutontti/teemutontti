@@ -18,8 +18,8 @@ Third year Business Information Systems student at Tampere University of Applied
 ## Statistics
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=teemutontti&show_icons=true&locale=en" alt="teemutontti" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teemutontti&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=teemutontti&show_icons=true&locale=en&bg_color=121212&title_color=44b6fd&text_color=0E93E5&icon_color=44b6fd" alt="teemutontti" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teemutontti&layout=compact&bg_color=121212&title_color=44b6fd&text_color=0E93E5&icon_color=44b6fd" />
 </div>
 
 ## Languages and Tools
