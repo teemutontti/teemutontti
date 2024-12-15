@@ -2,7 +2,7 @@
 > Open to Work!
 
 <img align="right" alt="Coder coding" width="300" src="./assets/programmer.png">
-Third year Business Information Systems student at Tampere University of Applied Sciences.
+Pasionate third-year Business Information Systems student at Tampere University of Applied Sciences with a keen interest in software and web development. Looking for new and exciting opportunities to apply my skills.
 
 
 <!--<img align="right" alt="Coder coding" width="400" src="coder.png">-->
@@ -139,8 +139,10 @@ Application for searching recipes, saving you own and viewing today's specials. 
 </div>
 
 ### Others
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="35"/>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40" />
+</div>
 
 <br>
 <a href="https://www.freepik.com/free-vector/colourful-illustration-programmer-working_5483080.htm#fromView=search&page=1&position=0&uuid=82decf55-7274-4dd3-807e-5ef119c00086">Header image by freepik</a>
