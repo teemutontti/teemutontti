@@ -25,7 +25,9 @@ Pasionate third-year Business Information Systems student at Tampere University 
 
 <!--PEARL-->
 <div style="display: flex; align-items: end; gap: 4px;">
-  <a href="https://github.com/Pearl-image-comparer/Pearl"><h3 style="margin: 0">Pearl - Satellite Comparison</h3></a>
+  
+  ### [Pearl - Satellite Comparison](https://github.com/Pearl-image-comparer/Pearl)
+  
   <div>
     <img src="./assets/remix-letter-glowing.svg" alt="vitejs" width="20" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="20"/>
@@ -41,7 +43,9 @@ Application for comparing satellite imagery for environmental monitoring and eco
 
 <!--STAFFAPP-->
 <div style="display: flex; align-items: end; gap: 4px">
-  <a><h3 style="margin: 0">StaffApp</h3></a>
+  
+  ### [StaffApp]()
+  
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="20" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20"/>
@@ -54,7 +58,9 @@ Demo application made for finding reliable subtitute workers easily. Not a publi
 
 <!--PORTFOLIO-->
 <div style="display: flex; align-items: end; gap: 4px">
-  <a href="https://github.com/Pearl-image-comparer/Pearl"><h3 style="margin: 0">Portfolio Page</h3></a>
+  
+  ### [Portfolio Page](https://github.com/Pearl-image-comparer/Pearl)
+  
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="20"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="20"/>
@@ -66,7 +72,9 @@ My own website to showcase my previous projects and work experiences. <a href="h
 
 <!--RECIPE APP-->
 <div style="display: flex; align-items: end; gap: 4px;">
-  <a href="https://github.com/teemutontti/recipe-app"><h3 style="margin: 0">Recipe App</h3></a>
+  
+  ### [Recipe App](https://github.com/teemutontti/recipe-app)
+  
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="20"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="20" />
