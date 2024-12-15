@@ -59,7 +59,7 @@ Demo application made for finding reliable subtitute workers easily. Not a publi
 <!--PORTFOLIO-->
 <div style="display: flex; align-items: end; gap: 4px">
   
-  ### [Portfolio Page](https://github.com/Pearl-image-comparer/Pearl)
+  ### [Portfolio Page](https://github.com/teemutontti/portfolio)
   
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="20"/>
