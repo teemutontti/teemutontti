@@ -8,9 +8,9 @@ Pasionate third-year Business Information Systems student at Tampere University 
 <!--<img align="right" alt="Coder coding" width="400" src="coder.png">-->
 
 ## Status
-- 🔭 Working on **[Pearl Satellite Comparer](https://github.com/Pearl-image-comparer/Pearl)**
+- 🔭 Working on **[Recipe App (Spring Boot and logging implementation](https://github.com/teemutontti/recipe-app))**
 
-- 🌱 Learning **CI/CD**, **Cloud Development** and **webpage optimization**
+- 🌱 Learning **CI/CD**, **Cloud Development** and **software testing**
 
 - 📫 Reach me by email: **teemu.tontti.tt@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/tonttiteemu)**
 
