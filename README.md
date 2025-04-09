@@ -8,7 +8,7 @@ Pasionate third-year Business Information Systems student at Tampere University 
 <!--<img align="right" alt="Coder coding" width="400" src="coder.png">-->
 
 ## Status
-- 🔭 Working on thesis project involving warehouse management and maintenance card
+- 🔭 Working on thesis project involving warehouse management and maintenance cards
 
 - 🌱 Learning **CI/CD**, **Cloud Development** and **software testing**
 
